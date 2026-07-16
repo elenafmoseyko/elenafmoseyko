@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# github-profile-test
+# GitHub Profile Statistics Test
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
