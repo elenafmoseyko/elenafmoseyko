@@ -13,7 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate WakaTime statistics
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -31,4 +37,15 @@ jobs:
           SHOW_UPDATED_DATE: true
           SHOW_PROFILE_VIEWS: false
           SHOW_LINES_OF_CODE: true
+
+          COMMIT_SINGLE: false
           LOCALE: en
+
+      - name: Commit and push README
+        run: |
+          git config user.name "elenafmoseyko"
+          git config user.email "moseykoelena@hotmail.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Update WakaTime profile statistics"
+          git push
