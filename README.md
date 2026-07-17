@@ -77,4 +77,57 @@ AI | Finance | Lease Accounting | Data & ML
 ## GitHub Activity
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165.82%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 58.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 593 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+🌆 Daytime                86 commits          ██████████░░░░░░░░░░░░░░░   39.81 % 
+🌃 Evening                90 commits          ██████████░░░░░░░░░░░░░░░   41.67 % 
+🌙 Night                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Thursday                 75 commits          █████████░░░░░░░░░░░░░░░░   34.72 % 
+Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Sunday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Jupyter Notebook         4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/elenafmoseyko/elenafmoseyko/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/07/2026 02:14:49 UTC
 <!--END_SECTION:waka-->
