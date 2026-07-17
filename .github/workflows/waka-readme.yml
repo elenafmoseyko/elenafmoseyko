@@ -1,4 +1,4 @@
-name: WakaTime Coding Activity
+name: WakaTime Profile Stats
 
 on:
   workflow_dispatch:
@@ -7,21 +7,38 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   update-readme:
-    name: Update WakaTime Stats
     runs-on: ubuntu-latest
 
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          TIME_RANGE: last_30_days
-          LANG_COUNT: 8
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          CODE_LANG: text
-          COMMIT_MESSAGE: Update WakaTime coding activity
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          PULL_BRANCH_NAME: main
+          PUSH_BRANCH_NAME: waka-stats
+
+          SHOW_TIMEZONE: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_SHORT_INFO: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_UPDATED_DATE: true
+          SHOW_PROFILE_VIEWS: false
+          SHOW_LINES_OF_CODE: true
+
+          COMMIT_BY_ME: true
+          COMMIT_USERNAME: elenafmoseyko
+          COMMIT_EMAIL: moseykoelena@hotmail.com
+          COMMIT_MESSAGE: Update WakaTime profile statistics
+
+          LOCALE: en
