@@ -1,96 +1,40 @@
-## Hi there 👋
+# Elena Moseyko
 
-<!--
-**elenafmoseyko/elenafmoseyko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO at [LedgrAI](https://ledgrai.ai)  
+AI | Finance | Lease Accounting | Data & ML
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# github-profile-test
-# GitHub Profile Statistics Test
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## ⏱️ Coding Activity
+## Tools & Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Current Focus
+
+- Building AI-powered lease accounting software at LedgrAI
+- Applied AI for accounting and finance workflows
+- Multi-agent systems, automation, and data products
+
+## GitHub Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165.82%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 58.0 kB Used in GitHub's Storage 
- > 
-> 🏆 583 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-🌆 Daytime                86 commits          ██████████░░░░░░░░░░░░░░░   40.57 % 
-🌃 Evening                86 commits          ██████████░░░░░░░░░░░░░░░   40.57 % 
-🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Thursday                 71 commits          ████████░░░░░░░░░░░░░░░░░   33.49 % 
-Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Sunday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-Jupyter Notebook         4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/elenafmoseyko/elenafmoseyko/main/assets/bar_graph.png)
-
-
- Last Updated on 17/07/2026 01:57:50 UTC
 <!--END_SECTION:waka-->
