@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   update-readme:
@@ -18,9 +17,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-          PULL_BRANCH_NAME: main
-          PUSH_BRANCH_NAME: waka-stats
 
           SHOW_TIMEZONE: true
           SHOW_LANGUAGE: true
@@ -35,10 +31,4 @@ jobs:
           SHOW_UPDATED_DATE: true
           SHOW_PROFILE_VIEWS: false
           SHOW_LINES_OF_CODE: true
-
-          COMMIT_BY_ME: true
-          COMMIT_USERNAME: elenafmoseyko
-          COMMIT_EMAIL: moseykoelena@hotmail.com
-          COMMIT_MESSAGE: Update WakaTime profile statistics
-
           LOCALE: en
