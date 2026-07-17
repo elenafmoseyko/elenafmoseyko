@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 # github-profile-test
 # GitHub Profile Statistics Test
 
+## ⏱️ Coding Activity
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
