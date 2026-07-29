@@ -1,6 +1,6 @@
 # Elena Moseyko
 
-Founder & CEO at [LedgrAI](https://ledgrai.ai)  
+Founder @ [LedgrAI](https://ledgrai.ai)  
 AI | Finance | Lease Accounting | Data & ML
 
 ---
