@@ -77,36 +77,11 @@ AI | Finance | Lease Accounting | Data & ML
 ## GitHub Activity
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165.82%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
+🤖 **AI Coding This Week** 
 
 ```text
-🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-🌆 Daytime                86 commits          ██████████░░░░░░░░░░░░░░░   39.45 % 
-🌃 Evening                92 commits          ███████████░░░░░░░░░░░░░░   42.20 % 
-🌙 Night                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Thursday                 76 commits          █████████░░░░░░░░░░░░░░░░   34.86 % 
-Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Sunday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-Jupyter Notebook         4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
 
 <!--END_SECTION:waka-->
