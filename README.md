@@ -72,16 +72,4 @@ AI | Finance | Lease Accounting | Data & ML
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
----
-
-## GitHub Activity
-
-<!--START_SECTION:waka-->
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
 <!--END_SECTION:waka-->
